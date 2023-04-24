@@ -12,8 +12,8 @@
 </p> 
 
 - 🏢 I'm a Senior Operations Support System Engineer at Telecom Egypt
-- 👨‍💻 As Sr.OSS Engineer , I'm constantly learning and exploring new technologies to improve my skills in DevOps.
-- 💬 Ask me about my experience with Linux System Administration , Python and Shell Scripting or anything related to DevOps.
+- 👨‍💻 As Sr.OSS Engineer , I'm constantly learning and exploring new technologies to improve my skills in DevOps Engineering.
+- 💬 Ask me about my experience with Linux System Administration , Python and Shell Scripting or anything related to DevOps Engineering.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
@@ -83,4 +83,4 @@
 #### Editor / IDE I ♥
 <p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yatharth0045&show_icons=true&hide=stars,issues" alt="yatharth0045" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoud-alashkar&show_icons=true&hide=stars,issues" alt="mahmoud-alashkar" /></p>
